@@ -1,0 +1,527 @@
+指标名称cpu.busy
+训练数据截止时间：2019-01-09 16:00:00
+季节性ARIMA的参数组合示例
+SARIMAX: (0, 0, 1) x (0, 0, 1, 24)
+SARIMAX: (0, 0, 1) x (0, 1, 0, 24)
+SARIMAX: (0, 1, 0) x (0, 1, 1, 24)
+SARIMAX: (0, 1, 0) x (1, 0, 0, 24)
+SARIMAX (0, 0, 0) x (0, 0, 0, 24) - AIC: 2.9564290945539766maxlag should be < nobs
+SARIMAX (0, 0, 0) x (0, 1, 0, 24) - AIC: 2.0maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (0, 0, 1) x (0, 0, 0, 24) - AIC: 4.641128908775965maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (0, 1, 0) x (0, 0, 0, 24) - AIC: -19.97998543196675maxlag should be < nobs
+SARIMAX (0, 1, 0) x (0, 1, 0, 24) - AIC: 2.0maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (0, 1, 1) x (0, 0, 0, 24) - AIC: -10.80588874673121maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (1, 0, 0) x (0, 0, 0, 24) - AIC: -24.523590714274253maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (1, 0, 1) x (0, 0, 0, 24) - AIC: -14.417525812006815maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (1, 1, 0) x (0, 0, 0, 24) - AIC: -30.08809311014049maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (1, 1, 1) x (0, 0, 0, 24) - AIC: -20.635526025453874maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (2, 0, 0) x (0, 0, 0, 24) - AIC: -28.59336595535258maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (2, 0, 1) x (0, 0, 0, 24) - AIC: -28.5924225485181maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (2, 1, 0) x (0, 0, 0, 24) - AIC: -20.333772525295622maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+Non-positive-definite forecast error covariance matrix encountered at period 3
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (3, 0, 0) x (0, 0, 0, 24) - AIC: -189.76734143689276maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (3, 0, 1) x (0, 0, 0, 24) - AIC: -19.195728549864228maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (3, 1, 0) x (0, 0, 0, 24) - AIC: nanmaxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (3, 1, 1) x (0, 0, 0, 24) - AIC: nanmaxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+2.24 sec
+最小 AIC 值为: -189.76734143689276 对应模型参数: SARIMAX(3, 0, 0)x(0, 0, 0, 24)
+预测数据截止时间:2019-01-10 02:00:00
+2019-01-09 17:00:00    0.265475
+2019-01-09 18:00:00    0.234013
+2019-01-09 19:00:00    0.239356
+2019-01-09 20:00:00    0.190444
+2019-01-09 21:00:00    0.183094
+2019-01-09 22:00:00    0.105128
+2019-01-09 23:00:00    0.071860
+2019-01-10 00:00:00   -0.055554
+2019-01-10 01:00:00   -0.139254
+2019-01-10 02:00:00   -0.352258
+Freq: H, dtype: float64
+指标名称mem.memused.percent
+训练数据截止时间：2019-01-09 16:00:00
+季节性ARIMA的参数组合示例
+SARIMAX: (0, 0, 1) x (0, 0, 1, 24)
+SARIMAX: (0, 0, 1) x (0, 1, 0, 24)
+SARIMAX: (0, 1, 0) x (0, 1, 1, 24)
+SARIMAX: (0, 1, 0) x (1, 0, 0, 24)
+SARIMAX (0, 0, 0) x (0, 0, 0, 24) - AIC: 20.162538386036168maxlag should be < nobs
+SARIMAX (0, 0, 0) x (0, 1, 0, 24) - AIC: 2.0maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (0, 0, 1) x (0, 0, 0, 24) - AIC: 15.692949373500497maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (0, 1, 0) x (0, 0, 0, 24) - AIC: 4.779974702717787maxlag should be < nobs
+SARIMAX (0, 1, 0) x (0, 1, 0, 24) - AIC: 2.0maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (0, 1, 1) x (0, 0, 0, 24) - AIC: 5.747051417817536maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (1, 0, 0) x (0, 0, 0, 24) - AIC: 6.704809388536656maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (1, 0, 1) x (0, 0, 0, 24) - AIC: 7.938662796626087maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (1, 1, 0) x (0, 0, 0, 24) - AIC: 6.547190712519905maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (1, 1, 1) x (0, 0, 0, 24) - AIC: 1205501325.1072109maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (2, 0, 0) x (0, 0, 0, 24) - AIC: 8.538904800594583maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (2, 0, 1) x (0, 0, 0, 24) - AIC: 9.921632278556952maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (2, 1, 0) x (0, 0, 0, 24) - AIC: 5.8610923149286664maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (2, 1, 1) x (0, 0, 0, 24) - AIC: 6.924370439553296maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (3, 0, 0) x (0, 0, 0, 24) - AIC: -187.24692988436072maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (3, 0, 1) x (0, 0, 0, 24) - AIC: -53.12041526214608maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (3, 1, 0) x (0, 0, 0, 24) - AIC: -131.8692440831545maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+SARIMAX (3, 1, 1) x (0, 0, 0, 24) - AIC: 1.8373366928796302e+26maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+maxlag should be < nobs
+2.97 sec
+最小 AIC 值为: -187.24692988436072 对应模型参数: SARIMAX(3, 0, 0)x(0, 0, 0, 24)
+预测数据截止时间:2019-01-10 02:00:00
+2019-01-09 17:00:00    2.566557
+2019-01-09 18:00:00    2.117458
+2019-01-09 19:00:00    0.898193
+2019-01-09 20:00:00    3.081986
+2019-01-09 21:00:00    3.894192
+2019-01-09 22:00:00    0.056938
+2019-01-09 23:00:00    2.278451
+2019-01-10 00:00:00    7.601518
+2019-01-10 01:00:00    0.218570
+2019-01-10 02:00:00   -2.276159
+Freq: H, dtype: float64
+指标名称df.statistics.used
+训练数据截止时间：2019-01-09 16:00:00
+季节性ARIMA的参数组合示例
+SARIMAX: (0, 0, 1) x (0, 0, 1, 24)
+SARIMAX: (0, 0, 1) x (0, 1, 0, 24)
+SARIMAX: (0, 1, 0) x (0, 1, 1, 24)
+SARIMAX: (0, 1, 0) x (1, 0, 0, 24)
+SARIMAX (0, 0, 0) x (0, 0, 0, 24) - AIC: -2119.9255679453795SARIMAX (0, 0, 0) x (0, 0, 1, 24) - AIC: -2013.4824229444082SARIMAX (0, 0, 0) x (0, 1, 0, 24) - AIC: -1603.5747058873865SARIMAX (0, 0, 0) x (0, 1, 1, 24) - AIC: -1934.5550418814637SARIMAX (0, 0, 0) x (1, 0, 0, 24) - AIC: -2017.8375543236612SARIMAX (0, 0, 0) x (1, 0, 1, 24) - AIC: -2011.550671999727SARIMAX (0, 0, 0) x (1, 1, 0, 24) - AIC: -1751.287230369355SARIMAX (0, 0, 0) x (1, 1, 1, 24) - AIC: -1934.9850460986827SARIMAX (0, 0, 0) x (2, 0, 0, 24) - AIC: -1926.2645244577075SARIMAX (0, 0, 0) x (2, 0, 1, 24) - AIC: -1940.454005253295SARIMAX (0, 0, 0) x (2, 1, 0, 24) - AIC: -1704.7925631527057SARIMAX (0, 0, 0) x (2, 1, 1, 24) - AIC: -1836.3529638941895SARIMAX (0, 0, 0) x (3, 0, 0, 24) - AIC: -1821.9333399912919SARIMAX (0, 0, 0) x (3, 0, 1, 24) - AIC: -1840.369782293736SARIMAX (0, 0, 0) x (3, 1, 0, 24) - AIC: -1672.9414115189165SARIMAX (0, 0, 0) x (3, 1, 1, 24) - AIC: -1747.6512787448369SARIMAX (0, 0, 1) x (0, 0, 0, 24) - AIC: -2561.0180953676004SARIMAX (0, 0, 1) x (0, 0, 1, 24) - AIC: -2437.7325642094056SARIMAX (0, 0, 1) x (0, 1, 0, 24) - AIC: -2011.2746708541501SARIMAX (0, 0, 1) x (0, 1, 1, 24) - AIC: -2327.358835333379SARIMAX (0, 0, 1) x (1, 0, 0, 24) - AIC: -2447.92679022386SARIMAX (0, 0, 1) x (1, 0, 1, 24) - AIC: -2435.6132882513784SARIMAX (0, 0, 1) x (1, 1, 0, 24) - AIC: -2146.332261182667SARIMAX (0, 0, 1) x (1, 1, 1, 24) - AIC: -2329.7137422733535SARIMAX (0, 0, 1) x (2, 0, 0, 24) - AIC: -2334.4301400097215SARIMAX (0, 0, 1) x (2, 0, 1, 24) - AIC: -2332.471293520157SARIMAX (0, 0, 1) x (2, 1, 0, 24) - AIC: -2083.331071025279SARIMAX (0, 0, 1) x (2, 1, 1, 24) - AIC: -2218.264537801398SARIMAX (0, 0, 1) x (3, 0, 0, 24) - AIC: -2212.7412843086504SARIMAX (0, 0, 1) x (3, 0, 1, 24) - AIC: -2210.8679980909023SARIMAX (0, 0, 1) x (3, 1, 0, 24) - AIC: -2035.7567505569616SARIMAX (0, 0, 1) x (3, 1, 1, 24) - AIC: -2113.9743532702673SARIMAX (0, 1, 0) x (0, 0, 0, 24) - AIC: -2192.796305291036SARIMAX (0, 1, 0) x (0, 0, 1, 24) - AIC: -2083.5151526833174SARIMAX (0, 1, 0) x (0, 1, 0, 24) - AIC: -1657.8180754093155SARIMAX (0, 1, 0) x (0, 1, 1, 24) - AIC: -1975.3141317394304SARIMAX (0, 1, 0) x (1, 0, 0, 24) - AIC: -2087.992317535344SARIMAX (0, 1, 0) x (1, 0, 1, 24) - AIC: -2081.53301930443SARIMAX (0, 1, 0) x (1, 1, 0, 24) - AIC: -1769.1857925659015SARIMAX (0, 1, 0) x (1, 1, 1, 24) - AIC: -1970.3383062550083SARIMAX (0, 1, 0) x (2, 0, 0, 24) - AIC: -1981.4845568165786SARIMAX (0, 1, 0) x (2, 0, 1, 24) - AIC: -1979.858338690276SARIMAX (0, 1, 0) x (2, 1, 0, 24) - AIC: -1712.6876757851664SARIMAX (0, 1, 0) x (2, 1, 1, 24) - AIC: -1870.4401350658256SARIMAX (0, 1, 0) x (3, 0, 0, 24) - AIC: -1876.0174545872042SARIMAX (0, 1, 0) x (3, 0, 1, 24) - AIC: -1880.559595553433SARIMAX (0, 1, 0) x (3, 1, 0, 24) - AIC: -1694.0872235497386SARIMAX (0, 1, 0) x (3, 1, 1, 24) - AIC: -1789.115726195239SARIMAX (0, 1, 1) x (0, 0, 0, 24) - AIC: -2186.3022110436896SARIMAX (0, 1, 1) x (0, 0, 1, 24) - AIC: -2077.059834830475SARIMAX (0, 1, 1) x (0, 1, 0, 24) - AIC: -1652.070868535961SARIMAX (0, 1, 1) x (0, 1, 1, 24) - AIC: -1968.8343559259156SARIMAX (0, 1, 1) x (1, 0, 0, 24) - AIC: -2085.9923011377223SARIMAX (0, 1, 1) x (1, 0, 1, 24) - AIC: -2075.077672691419SARIMAX (0, 1, 1) x (1, 1, 0, 24) - AIC: -1767.185792371191SARIMAX (0, 1, 1) x (1, 1, 1, 24) - AIC: -1964.4924969501121SARIMAX (0, 1, 1) x (2, 0, 0, 24) - AIC: -1979.4845468117528SARIMAX (0, 1, 1) x (2, 0, 1, 24) - AIC: -1977.8583425524898SARIMAX (0, 1, 1) x (2, 1, 0, 24) - AIC: -1710.6876651801074SARIMAX (0, 1, 1) x (2, 1, 1, 24) - AIC: -1868.4401399653157SARIMAX (0, 1, 1) x (3, 0, 0, 24) - AIC: -1874.017454569535SARIMAX (0, 1, 1) x (3, 0, 1, 24) - AIC: -1878.5595714503088SARIMAX (0, 1, 1) x (3, 1, 0, 24) - AIC: -1692.0872146982158SARIMAX (0, 1, 1) x (3, 1, 1, 24) - AIC: -1787.1157259505587SARIMAX (1, 0, 0) x (0, 0, 0, 24) - AIC: -2352.4345182365505SARIMAX (1, 0, 0) x (0, 0, 1, 24) - AIC: -2237.02006572421SARIMAX (1, 0, 0) x (0, 1, 0, 24) - AIC: -1815.4566679170384SARIMAX (1, 0, 0) x (0, 1, 1, 24) - AIC: -2130.329925087908SARIMAX (1, 0, 0) x (1, 0, 0, 24) - AIC: -2237.0270823228025SARIMAX (1, 0, 0) x (1, 0, 1, 24) - AIC: -2235.036236280195SARIMAX (1, 0, 0) x (1, 1, 0, 24) - AIC: -1926.4785229812846SARIMAX (1, 0, 0) x (1, 1, 1, 24) - AIC: -2127.18183843958SARIMAX (1, 0, 0) x (2, 0, 0, 24) - AIC: -2126.856130090093SARIMAX (1, 0, 0) x (2, 0, 1, 24) - AIC: -2125.086104068486SARIMAX (1, 0, 0) x (2, 1, 0, 24) - AIC: -1866.4268561001184SARIMAX (1, 0, 0) x (2, 1, 1, 24) - AIC: -2016.6764486658371SARIMAX (1, 0, 0) x (3, 0, 0, 24) - AIC: -2013.728325504425SARIMAX (1, 0, 0) x (3, 0, 1, 24) - AIC: -2016.3354058678665SARIMAX (1, 0, 0) x (3, 1, 0, 24) - AIC: -1836.4484917637965SARIMAX (1, 0, 0) x (3, 1, 1, 24) - AIC: -1926.1715995983318SARIMAX (1, 0, 1) x (0, 0, 0, 24) - AIC: -2559.996531079549SARIMAX (1, 0, 1) x (0, 0, 1, 24) - AIC: -2436.7641535198823SARIMAX (1, 0, 1) x (0, 1, 0, 24) - AIC: -2009.2748616548006SARIMAX (1, 0, 1) x (0, 1, 1, 24) - AIC: -2325.55581278902SARIMAX (1, 0, 1) x (1, 0, 0, 24) - AIC: -2441.9527436402605SARIMAX (1, 0, 1) x (1, 0, 1, 24) - AIC: -2435.3491500634464SARIMAX (1, 0, 1) x (1, 1, 0, 24) - AIC: -2140.317581127501SARIMAX (1, 0, 1) x (1, 1, 1, 24) - AIC: -2328.201044397025SARIMAX (1, 0, 1) x (2, 0, 0, 24) - AIC: -2327.9992109018735SARIMAX (1, 0, 1) x (2, 0, 1, 24) - AIC: -2326.0265781272115SARIMAX (1, 0, 1) x (2, 1, 0, 24) - AIC: -2077.2660980949263SARIMAX (1, 0, 1) x (2, 1, 1, 24) - AIC: -2212.9499722166584SARIMAX (1, 0, 1) x (3, 0, 0, 24) - AIC: -2206.3092767245544SARIMAX (1, 0, 1) x (3, 0, 1, 24) - AIC: -2204.368812806603SARIMAX (1, 0, 1) x (3, 1, 0, 24) - AIC: -2029.6158542096528SARIMAX (1, 0, 1) x (3, 1, 1, 24) - AIC: -2108.2394320679614SARIMAX (1, 1, 0) x (0, 0, 0, 24) - AIC: -2190.7963130759954SARIMAX (1, 1, 0) x (0, 0, 1, 24) - AIC: -2081.5151600330755SARIMAX (1, 1, 0) x (0, 1, 0, 24) - AIC: -1655.8180835107842SARIMAX (1, 1, 0) x (0, 1, 1, 24) - AIC: -1973.3129584368294SARIMAX (1, 1, 0) x (1, 0, 0, 24) - AIC: -2081.535289573669SARIMAX (1, 1, 0) x (1, 0, 1, 24) - AIC: -2079.533031436118SARIMAX (1, 1, 0) x (1, 1, 0, 24) - AIC: -1763.1346889993024SARIMAX (1, 1, 0) x (1, 1, 1, 24) - AIC: -1968.33830567133SARIMAX (1, 1, 0) x (2, 0, 0, 24) - AIC: -1975.0646101029981SARIMAX (1, 1, 0) x (2, 0, 1, 24) - AIC: -1974.9730410218049SARIMAX (1, 1, 0) x (2, 1, 0, 24) - AIC: -1706.6029480053626SARIMAX (1, 1, 0) x (2, 1, 1, 24) - AIC: -1864.6244470261715SARIMAX (1, 1, 0) x (3, 0, 0, 24) - AIC: -1869.6359157102918SARIMAX (1, 1, 0) x (3, 0, 1, 24) - AIC: -1874.5069513805797SARIMAX (1, 1, 0) x (3, 1, 0, 24) - AIC: -1687.8947437037261SARIMAX (1, 1, 0) x (3, 1, 1, 24) - AIC: -1783.2927729508601SARIMAX (1, 1, 1) x (0, 0, 0, 24) - AIC: -2184.3022110436896SARIMAX (1, 1, 1) x (0, 0, 1, 24) - AIC: -2075.0598348190742SARIMAX (1, 1, 1) x (0, 1, 0, 24) - AIC: -1650.0708685974223SARIMAX (1, 1, 1) x (0, 1, 1, 24) - AIC: -1966.8343547813706SARIMAX (1, 1, 1) x (1, 0, 0, 24) - AIC: -2079.5352895513797SARIMAX (1, 1, 1) x (1, 0, 1, 24) - AIC: -2073.077672687676SARIMAX (1, 1, 1) x (1, 1, 0, 24) - AIC: -1761.1346884779653SARIMAX (1, 1, 1) x (1, 1, 1, 24) - AIC: -1962.492496779725SARIMAX (1, 1, 1) x (2, 0, 0, 24) - AIC: -1973.064608780438SARIMAX (1, 1, 1) x (2, 0, 1, 24) - AIC: -1972.9730313563293SARIMAX (1, 1, 1) x (2, 1, 0, 24) - AIC: -1704.6029477323068SARIMAX (1, 1, 1) x (2, 1, 1, 24) - AIC: -1862.6244627219232SARIMAX (1, 1, 1) x (3, 0, 0, 24) - AIC: -1867.6359154540398SARIMAX (1, 1, 1) x (3, 0, 1, 24) - AIC: -1872.5068746864863SARIMAX (1, 1, 1) x (3, 1, 0, 24) - AIC: -1685.8947416760275SARIMAX (1, 1, 1) x (3, 1, 1, 24) - AIC: -1781.2927780563132SARIMAX (2, 0, 0) x (0, 0, 0, 24) - AIC: -2398.425357802153SARIMAX (2, 0, 0) x (0, 0, 1, 24) - AIC: -2285.793205207791SARIMAX (2, 0, 0) x (0, 1, 0, 24) - AIC: -1864.0180074284713SARIMAX (2, 0, 0) x (0, 1, 1, 24) - AIC: -2182.9098930079235SARIMAX (2, 0, 0) x (1, 0, 0, 24) - AIC: -2281.003651634436SARIMAX (2, 0, 0) x (1, 0, 1, 24) - AIC: -2279.0046711102405SARIMAX (2, 0, 0) x (1, 1, 0, 24) - AIC: -1982.020499939896SARIMAX (2, 0, 0) x (1, 1, 1, 24) - AIC: -2177.5253744945185SARIMAX (2, 0, 0) x (2, 0, 0, 24) - AIC: -2171.4235972230827SARIMAX (2, 0, 0) x (2, 0, 1, 24) - AIC: -2169.445139151494SARIMAX (2, 0, 0) x (2, 1, 0, 24) - AIC: -1921.7341214707808SARIMAX (2, 0, 0) x (2, 1, 1, 24) - AIC: -2064.644721445563SARIMAX (2, 0, 0) x (3, 0, 0, 24) - AIC: -2055.689487275029SARIMAX (2, 0, 0) x (3, 0, 1, 24) - AIC: -2053.7588808745545SARIMAX (2, 0, 0) x (3, 1, 0, 24) - AIC: -1884.7875562612246SARIMAX (2, 0, 0) x (3, 1, 1, 24) - AIC: -1969.3692086697615SARIMAX (2, 0, 1) x (0, 0, 0, 24) - AIC: -2562.0387822162784SARIMAX (2, 0, 1) x (0, 0, 1, 24) - AIC: -2438.585724467191SARIMAX (2, 0, 1) x (0, 1, 0, 24) - AIC: -2012.467944723146SARIMAX (2, 0, 1) x (0, 1, 1, 24) - AIC: -2325.4924194003415SARIMAX (2, 0, 1) x (1, 0, 0, 24) - AIC: -2438.6898711279227SARIMAX (2, 0, 1) x (1, 0, 1, 24) - AIC: -2437.00108778438SARIMAX (2, 0, 1) x (1, 1, 0, 24) - AIC: -2134.6813005065565SARIMAX (2, 0, 1) x (1, 1, 1, 24) - AIC: -2327.0507623030117SARIMAX (2, 0, 1) x (2, 0, 0, 24) - AIC: -2323.576519159083SARIMAX (2, 0, 1) x (2, 0, 1, 24) - AIC: -2321.565391899184SARIMAX (2, 0, 1) x (2, 1, 0, 24) - AIC: -2071.06776403356SARIMAX (2, 0, 1) x (2, 1, 1, 24) - AIC: -2207.686801399711SARIMAX (2, 0, 1) x (3, 0, 0, 24) - AIC: -2201.7410245658475
