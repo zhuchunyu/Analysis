@@ -10,3 +10,5 @@ y = np.dot(X, beta) + e
 results = sm.OLS(y, X).fit()
 
 print(results.summary())
+
+

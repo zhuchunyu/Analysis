@@ -1,11 +1,3 @@
-# import numpy as np
-# import statsmodels.api as sm
-# import statsmodels.formula.api as smf
-#
-# dat = sm.datasets.get_rdataset("Guerry", "HistData").data
-# results = smf.ols('Lottery ~ Literacy + np.log(Pop1831)', data=dat).fit()
-# print(results.summary())
-
 import warnings
 import itertools
 import pandas as pd
@@ -14,14 +6,14 @@ import statsmodels.api as sm
 import matplotlib.pyplot as plt
 plt.style.use('fivethirtyeight')
 
-data = pd.read_csv('C:\Program Files\Python36\Lib\site-packages\statsmodels\datasets\co2\co2.csv', engine='python', skipfooter=0)
+data = pd.read_csv('csv/co2.csv', engine='python', skipfooter=0)
 
 data['date'] = pd.to_datetime(data['date'], format='%Y%m%d')
 data.set_index(['date'], inplace=True)
 
 y = data
 
-y = y['1980':]
+y = y['1985':]
 
 y = y.fillna(y.bfill())
 
